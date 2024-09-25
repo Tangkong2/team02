@@ -6087,7 +6087,7 @@
         margin-bottom: 20px;
       }
 
-      dl div {
+      dl dd {
         /* display: flex;
         justify-content: space-between; */
         display: grid;
@@ -6263,7 +6263,7 @@
   @media(min-width:500px) {
     .popup {
       .timepicker {
-        dl div {
+        dl dd {
           /* display: flex;
       justify-content: space-between; */
           display: grid;
@@ -6566,7 +6566,7 @@
   @media(min-width:600px) {
     .popup {
       .timepicker {
-        dl div {
+        dl dd {
           /* display: flex;
           justify-content: space-between; */
           display: grid;
