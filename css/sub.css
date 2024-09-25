@@ -6329,7 +6329,7 @@
       .relationship {
         select {
           font-size: 1.8rem;
-          background: transparent url(../img/icon/icon-arrow-down-big.svg) no-repeat center right;
+         background-size: 32px;
 
 
         }
